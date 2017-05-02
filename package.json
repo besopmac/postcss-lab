@@ -12,7 +12,10 @@
   "author": "Bruno N. <brunosopmac@gmail.com> (http://besopmac.me/)",
   "license": "MIT",
   "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "cssnext": "^1.8.4",
     "gulp": "^3.9.1",
-    "gulp-postcss": "^6.4.0"
+    "gulp-postcss": "^6.4.0",
+    "precss": "^1.4.0"
   }
 }
