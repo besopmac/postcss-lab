@@ -1,0 +1,14 @@
+{
+  "name": "postcss-lab",
+  "version": "1.0.0",
+  "description": "First steps with PostCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PostCSS"
+  ],
+  "author": "Bruno N. <brunosopmac@gmail.com> (http://besopmac.me/)",
+  "license": "MIT"
+}
